@@ -1,0 +1,28 @@
+@charset "utf-8";
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote, th, td { margin:0; padding:0; FONT-SIZE: 12px}
+ul{ list-style:none;}
+button{ border:0 none; padding:0; cursor:pointer;}
+img{ border:0;}
+
+.frame{width:960px; margin:10px auto 0;clear:both;text-align: left;font-family: Microsoft Yahei,'\5b8b\4f53',Arial,Verdana;}
+
+.frame strong {font-weight: bold;}
+.frame p {line-height: 25px;}
+.foot {width:960px;margin:0px auto; color: #999;}
+.foot a,.foot a:hover {color: #666;text-decoration: none; padding:0px 3px;_padding:0; }
+.links { position: relative;zoom: 1; margin-top: 15px; border-top: #c2c2c2 1px solid; padding:15px 0px; font-size: 12px; color: #666; }
+.links span {  font-size: 12px;}
+.links a {  font-size: 12px;}
+.links .rights {margin-top: 10px;}
+#footFrame {width: 100%; padding:15px 0px 55px 0px; }
+.foot a.office-verification {padding: 0;}
+.foot a.office-verification { padding: 5px 10px; background: url("../images/logo_down.jpg") no-repeat; background-size:20px 20px; }
+.foot a.office-verification img{width: 20px;height: 20px;vertical-align: top;}
+.copyright .footerIcon{display: inline-block;*display:inline; width:16px; height: 16px; margin-top: -2px; *margin-top:8px; vertical-align: middle; zoom:1;background: url("../images/footer_icon.jpg") no-repeat 0 0px;*background-position:0px 0px }
+.copyright .footerIcon a{ display: inline-block;*display:inline;zoom:1;padding:0px; vertical-align: middle;}
+.copyright a{color: #999;}
+.links .kugou {z-index: 10; position: absolute; width: 148px; background: url("../images/ikugou2.png") no-repeat; 
+	height: 35px; right: 0px; top: 60px ;
+_background:none;
+_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.kugou.com/common/images/ikugou2.png', sizingMethod='crop');	
+}
